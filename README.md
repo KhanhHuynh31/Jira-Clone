@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 In the project directory, you can run:
 ### `yarn install`
-### `npm start`
+### `yarn start`
 
 ![jira1](https://user-images.githubusercontent.com/65646959/180684878-d8909e99-ce7d-4cf6-9015-423717018ac2.png)
 
